@@ -6,7 +6,6 @@ WZGit教程 → [https://liaoxuefeng.com/books/git/](https://liaoxuefeng.com/boo
 
 Gitignore在线生成工具 → [https://michaelliao.github.io/gitignore-online-generator/](https://michaelliao.github.io/gitignore-online-generator/)
 
-此仓库用于测试Pull Request，推送请使用UTF-8编码。
 
 推送格式：
 
