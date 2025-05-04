@@ -2,7 +2,7 @@
 
 官方网站 → [https://liaoxuefeng.com](https://liaoxuefeng.com)
 
-Git教程 → [https://liaoxuefeng.com/books/git/](https://liaoxuefeng.com/books/git/)
+WZGit教程 → [https://liaoxuefeng.com/books/git/](https://liaoxuefeng.com/books/git/)
 
 Gitignore在线生成工具 → [https://michaelliao.github.io/gitignore-online-generator/](https://michaelliao.github.io/gitignore-online-generator/)
 
